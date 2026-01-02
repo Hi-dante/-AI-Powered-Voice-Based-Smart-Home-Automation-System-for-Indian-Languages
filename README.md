@@ -41,7 +41,7 @@ The system integrates AI-based speech recognition, NLP-driven command processing
 
 ## Demo Video
 ▶️ Project Demo:  
-https://drive.google.com/file/d/1k9kuA2fRStZ2apW35O5ASc-Fpsyeba-C/view
+
 
 ---
 
